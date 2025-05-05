@@ -44,7 +44,7 @@ You can download and explore the full Excel dashboard from this repository:
 ## 📬 Contact
 
 👤 **Jeeva K**  
-📧 [jeevakrish374]  
+📧 [jeevakrish374@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeevakrish)
 
 ---
