@@ -37,7 +37,8 @@ This Excel project provides a comprehensive analysis of road accident data using
 
 ## 📎 File Access
 
-You can download and explore the full Excel dashboard from this repository:  
+Due to GitHub file size limits, the full Excel file is hosted externally:  
+📥 [Click here to view/download the Road Accident Dashboard (Excel)](https://docs.google.com/spreadsheets/d/1T3ol-de3mCTJuC6v19xm30ptehLkWRRg/edit?usp=drive_link&ouid=113162187151591616585&rtpof=true&sd=true)
 
 ---
 
